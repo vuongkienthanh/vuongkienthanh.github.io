@@ -1,0 +1,100 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://vuongkienthanh.github.io'
+baseurl: ''
+title: 'Thanh Vuong personal website'
+description: 'Thanh Vuong personal website'
+
+
+lang: vi-VN
+encoding: utf-8
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Asia/Ho_Chi_Minh # Timezone for blog posts and alike
+date_format: "%d-%m-%Y"
+
+
+
+logo: "/assets/logos/logo.png"
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  120: '/assets/logos/logo@120px.png'
+  144: '/assets/logos/logo@144px.png'
+  180: '/assets/logos/logo@180px.png'
+
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: Element
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
+- title: "Github"
+  url: "https://github.com/vuongkienthanh"
+- title: "FB"
+  url: "https://facebook.com/vuongkienthanh"
+- title: "created using Alembic"
+  url: "https://alembic.darn.es"
+
+
+repo: "https://github.com/vuongkienthanh/vuongkienthanh.github.io"
+email: "thanhstardust@outlook.com"
+social:
+  name: Vương Kiến Thanh
+  links:
+    - https://www.facebook.com/vuongkienthanh
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  GitHub: https://github.com/vuongkienthanh
+  Facebook: facebook.com/vuongkienthanh
+
+sharing_links: 
+  Facebook: true
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: "Các bài posts của tôi"
+    feature_text: "Welcome to my blog"
+    feature_image: "https://picsum.photos/2560/600"
