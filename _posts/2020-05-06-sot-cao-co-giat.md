@@ -1,6 +1,7 @@
 ---
 title: SỐT CO GIẬT
-categories: Nội thần kinh
+categories: 
+    - Nội thần kinh
 ---
 
 ## 🌡 Sốt co giật là gì?
