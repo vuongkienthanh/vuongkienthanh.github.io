@@ -55,8 +55,8 @@ paginate_path: python/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Python
-  url: /python/
+- title: Blog
+  url: /blog/
 - title: Categories
   url: /categories/
 - title: Search
@@ -93,6 +93,6 @@ collections:
   posts:
     title: Posts
     output: true
-    description: "Các bài posts của tôi"
+    description: "Các bài posts về python và data"
     feature_text: "Welcome to my blog"
     feature_image: "https://picsum.photos/2560/600"
