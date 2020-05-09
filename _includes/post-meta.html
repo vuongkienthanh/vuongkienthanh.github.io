@@ -14,5 +14,5 @@
   {% assign date_format = site.date_format | default: "%d %b %Y" %}
   {% comment}
   {{ categories | append: "&nbsp;&middot;&nbsp;" }}
-  {% endcommit %}<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
+  {% endcomment %}<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
 </small>
