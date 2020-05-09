@@ -16,3 +16,5 @@ Nguy cơ chụp CTscan ở trẻ 1 năm từ 2-3 lần rất thấp.
 4. Nếu bé có xuất huyết não thì điều trị như thế nào?
 Những trường hợp xuất huyết não lượng ít thường tiên lượng tốt, bé được nhập viện theo dõi từ 2-3 ngày, nếu ổn có thể xuất viện.  
 Những trường hợp xuất huyết não rất nhiều thì cần phải phẫu thuật.
+
+## ThS. BS Nguyễn Duy Khải – Khoa Thần Kinh
