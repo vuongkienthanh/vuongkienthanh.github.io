@@ -49,16 +49,14 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # Pagination
 paginate: 5
-paginate_path: blog/page:num
+paginate_path: python/page:num
 
 # Header nav
 navigation_header:
 - title: Home
   url: /
-- title: Element
-  url: /elements/
-- title: Blog
-  url: /blog/
+- title: Python
+  url: /python/
 - title: Categories
   url: /categories/
 - title: Search
