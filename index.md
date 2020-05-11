@@ -31,4 +31,5 @@ Tôi có viết một repo (**ARCHIVED**) về statistics cơ bản bằng pytho
 color="#333333" %}  
 
 #### 4. Project
-Bayesian rethinking Vietnamese - translation.
+[Bayesian rethinking Vietnamese - translation](/learn-bayes)
+
