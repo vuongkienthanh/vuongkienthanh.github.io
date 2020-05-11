@@ -13,6 +13,7 @@ Tôi làm việc trong một team neurosurgeons, họ đã được training ở
 
 Trong team chúng tôi còn có **Bác sĩ Nội thần kinh** trẻ em, chuyên điều trị: *Động kinh, co giật, yếu tay chân, viêm não, rối loạn giấc ngủ, đau đầu,...*  
 
+![neuro_team](/assets/neuro_team.jpg)  
 Các anh chị em muốn tìm hiểu và liên hệ, hãy nói chuyện với chúng tôi 👨‍⚕️ 👩‍⚕️ thông qua các kênh sau đây:  
 {% include button.html text="Ngoại Thần Kinh - Bệnh viện Nhi Đồng Thành Phố" icon="facebook" link="https://www.facebook.com/NgoaiTKnhi/" color="#0366d6" %}  
 {% include button.html text="KITE - Phòng khám chuyên khoa Nhi " icon="facebook" link="https://www.facebook.com/pkkite/" color="#86D70A" %}   

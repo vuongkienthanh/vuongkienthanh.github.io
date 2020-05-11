@@ -57,6 +57,8 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
+- title: Learn Bayesian
+  url: /learn-bayes/
 - title: Categories
   url: /categories/
 - title: Search
