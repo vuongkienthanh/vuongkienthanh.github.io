@@ -40,7 +40,8 @@ Phòng ngừa khả năng bị bắt nạt ở trường điều làm trẻ dễ
 ![](https://scontent.fsgn2-1.fna.fbcdn.net/v/t1.0-9/96724877_135855394724608_132983049456451584_n.jpg?_nc_cat=104&_nc_sid=110474&_nc_ohc=V5ItUv-ms3AAX-OOwuO&_nc_ht=scontent.fsgn2-1.fna&oh=5d268eb57f0e0f52d2f0906316b26bc3&oe=5EDEB25C)
 
 ## 📚Nguồn :
-[CDC](https://www.cdc.gov/ncbddd/tourette/diagnosis.html)
-[https://tourette.org/](https://tourette.org/)
+[CDC](https://www.cdc.gov/ncbddd/tourette/diagnosis.html)  
+[tourette.org](https://tourette.org/)  
+
 LIVING WITH TOURETTE & TIC DISORDERS A Guide for Patients and Families (Tourret Association of America)  
-##🖋BS. CK1 Trần Đỗ Lợi - Khoa Thần Kinh
+## 🖋BS. CK1 Trần Đỗ Lợi - Khoa Thần Kinh
