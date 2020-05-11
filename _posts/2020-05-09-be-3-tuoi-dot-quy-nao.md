@@ -4,7 +4,7 @@ categories:
     - Ngoại thần kinh
 ---
 
-## BỆNH VIỆN NHI ĐỒNG THÀNH PHỐ LÀ BỆNH VIỆN NHI ĐẦU TIÊN ĐÃ TRIỂN KHAI ĐÃ CAN THIỆP LẤY HUYẾT KHỐI NÃO QUA ĐƯỜNG ĐỘNG MẠCH THÀNH CÔNG CHO TRẺ EM.
+##### BỆNH VIỆN NHI ĐỒNG THÀNH PHỐ LÀ BỆNH VIỆN NHI ĐẦU TIÊN ĐÃ TRIỂN KHAI ĐÃ CAN THIỆP LẤY HUYẾT KHỐI NÃO QUA ĐƯỜNG ĐỘNG MẠCH THÀNH CÔNG CHO TRẺ EM.
 Bệnh viện nhi đồng thành phố đã tiếp nhận 1 bé gái 3 tuổi, nhập viện vì đau đầu, sau khi làm xét nghiệm và chụp CT kiểm tra, các BS đã phát hiện bé bị đột quỵ nhồi máu não do huyết khối.  
 Các BS khoa ngoại thần kinh đã tiến hành can thiệp lấy huyết khối bằng đường động mạch dưới DSA, sau 2 giờ can thiệp, động mạch bị tắc của bé đã được tái thông hoàn toàn.  
 Hiện tại bé đã tỉnh táo, đang dần hồi phục sức cơ.   
