@@ -7,7 +7,7 @@ layout: page
 ### <Xin chào các anh chị em 👋👋👋> 
 <!-- more -->
 #### 1. Nghề chính của tôi là phẫu thuật viên thần kinh trẻ em.
-Neurosurgery là một trong những nhánh trong y khoa đòi hỏi rất cao người bác sĩ từ tâm lý, kỹ năng, kiến thức, vì Neurosurgeons thường xuyên phải đối mặt với các tình huống tổn thương thần kinh có thể di chứng hoặc tử vong 🤕🤕🤕. Do đó, neurosurgens sẽ phải học và training rất nhiều và đa số họ là những người rất giỏi.  
+Neurosurgery là một trong những nhánh trong y khoa đòi hỏi rất cao người bác sĩ từ tâm lý, kỹ năng, kiến thức, vì Neurosurgeons thường xuyên phải đối mặt với các tình huống tổn thương thần kinh có thể di chứng hoặc tử vong 🤕🤕🤕. Do đó, neurosurgeons sẽ phải học và training rất nhiều và đa số họ là những người rất giỏi.  
 
 Tôi làm việc trong một team neurosurgeons, họ đã được training ở nước ngoài và có mối quan hệ tại các bệnh viện Nhi và các bệnh viện tuyến cuối. Một số bệnh lý mà chúng tôi điều trị: *Chấn thương sọ não cột sống, dị tật não cột sống, các loại u, não úng thuỷ, nhiễm trùng,...*  
 
