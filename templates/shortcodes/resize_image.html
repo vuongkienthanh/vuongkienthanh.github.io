@@ -1,0 +1,2 @@
+{% set image = resize_image(path=section.path ~ img_name, height=200, op="fit_height") %}
+<img src="{{ image.url }}" />
