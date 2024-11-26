@@ -2,7 +2,7 @@ base_url = "https://vuongkienthanh.github.io"
 
 compile_sass = false
 minify_html = true
-generate_feed = false
+generate_feeds = false
 build_search_index = false
 
 theme = "anemone"
