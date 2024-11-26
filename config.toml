@@ -1,0 +1,31 @@
+base_url = "https://vuongkienthanh.github.io"
+
+compile_sass = false
+minify_html = true
+generate_feed = false
+build_search_index = false
+
+theme ="anemone"
+default_language = "vn"
+
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+
+[extra]
+# Put all your custom variables here
+list_pages = false
+default_theme = "light"
+author = "vuongkienthanh"
+display_author = true
+twitter_card = false
+favicon = "favicon.ico"
+
+
+header_nav = [
+  { url = "/", name_vn = "/home/"},
+  { url = "/team", name_vn = "/team/"},
+]
