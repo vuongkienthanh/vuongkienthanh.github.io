@@ -3,7 +3,6 @@ title = "Khoa Ngoại Thần Kinh - Bệnh Viện Nhi Đồng Thành Phố"
 description = "Giới thiệu Khoa Ngoại Thần Kinh - Bệnh Viện Nhi Đồng Thành Phố"
 +++
 
-
 {{ team_logo(img_name="logo.jpg") }} Ca phẫu thuật thần kinh đầu tiên tại bệnh viện được thực hiện từ 30/5/2018, và ca chụp mạch máu não xóa nền đầu tiên được thực hiện vào 8/11/2018.</p>
 
 Hiện tại, chúng tôi có phòng mổ ngoại thần kinh rộng rãi được trang bị cơ sở vật chất hiện đại: kính vi phẫu Pentero 800, hệ thống định vị thần kinh (Navigation) Brainlab, hệ thống nội soi thần kinh, bộ dụng cụ phẫu thuật và vi phẫu thần kinh, máy DSA GE 630 chụp 2 bình diện,.. Và đặc biệt là hế thống Telemedicine giúp chúng tôi có thể truyền hình ảnh phẫu thuật trực tiếp ra bên ngoài phòng mổ phục vụ công tác hội chẩn và đào tạo.
@@ -15,7 +14,6 @@ Trong quá trình hoạt động, chúng tôi cũng nhận được sự hợp t
 {{ resize_image(img_name="international1.jpg") }}
 {{ resize_image(img_name="international2.jpg") }}
 
-
 ## NHÓM CHẤN THƯƠNG HỆ THẦN KINH, XUẤT HUYẾT NÃO KHÔNG DO CHẤN THƯƠNG
 
 Chúng tôi đa tiếp nhận và phẫu thuật nhiều ca chấn thương sọ não và cột sống với đầy đủ các tổn thương, từ nhẹ đến nặng. Kết quả điều trị và tiên lượng phụ thuộc vào nhiều yếu tố như: sơ cấp cứu ban đầu, quá trình chuyến viện, chuẩn bị tiền phẫu, gây mê phẫu thuật, hồi sức nội khoa trước và sau mổ, phục hồi chức năng sau mổ…
@@ -26,7 +24,6 @@ Trong điều trị các biến chứng sau chấn thương, chúng tôi rất c
 {{ resize_image(img_name="hematoma2.jpg") }}
 {{ resize_image(img_name="hematoma2.jpg") }}
 {{ resize_image(img_name="hematoma2.jpg") }}
-
 
 ## NHÓM BỆNH LÝ TÂN SINH
 
