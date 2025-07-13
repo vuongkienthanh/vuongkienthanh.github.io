@@ -1,5 +1,5 @@
 base_url = "https://vuongkienthanh.github.io"
-title = "Bác sĩ Vương Kiến Thanh"
+title = "BS Vương Kiến Thanh"
 description = "Blog cá nhân của BS Vương Kiến Thanh"
 
 compile_sass = false
@@ -25,7 +25,7 @@ highlight_code = false
 
 [extra]
 author = "Vương Kiến Thanh"
-display_author = true
+display_author = false
 list_pages = false
 default_theme = "light"
 twitter_card = false
@@ -34,6 +34,6 @@ image = ""
 
 header_nav = [
     { url = "/", name_vn = "/Bản thân/" },
-    { url = "/team", name_vn = "/Team/" },
+    { url = "/teamndtp", name_vn = "/TeamNDTP/" },
     { url = "/wiki", name_vn = "/wiki/" },
 ]

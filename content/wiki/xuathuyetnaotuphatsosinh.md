@@ -1,6 +1,6 @@
 +++
 title = "Xuất huyết não tự phát ở trẻ sơ sinh" 
-description = "Thông tin y khoa về xuất huyết não tự phát ở trẻ sơ sinh, nói chuyên về xuất huyết vùng mầm"
+description = "Xuất huyết não tự phát ở trẻ sơ sinh, đặc biệt về xuất huyết vùng mầm"
 date = 2024-12-05
 [taxonomies]
     tags = ["xuất huyết não"]
